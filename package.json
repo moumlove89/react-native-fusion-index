@@ -1,0 +1,32 @@
+{
+    "name": "react-native-fusion-index",
+    "version": "1.0.0",
+    "description": "this is designed for fusion index",
+    "homepage": "https://github.com/moumlove89/react-native-fusion-index",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-fusion-index"
+    ],
+    "author": {
+        "name": "fusion",
+        "email": "fusion@example.com"
+    },
+    "license": "MIT",   
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/moumlove89/react-native-fusion-index.git"
+    },
+    "dependencies": {
+        "@react-native-community/netinfo": "9.3.7",
+        "react-native-spinkit": "^1.5.1"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "react-native-splash-screen": "^3.3.0"
+    }
+  }
+  
